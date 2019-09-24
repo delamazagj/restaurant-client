@@ -3,6 +3,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+![](images/screen.png)
+
+![](images/dish.png)
+
+![](images/account.png)
+
+![](images/bill.png)
+
+
+
 ## NOTES
 
 This is a react application for a restaurant systes. The whole system consists of several applications. This is the one for the customers. This application uses React.js, Redux, Semantic UI, and Firestore. Please note that the database account used here is just for testing matter. You just modify that section of the code and add your own api key. Please don't try to update any dependencies since I locked the versions to ensure they work correctly for this project. 
@@ -12,10 +22,6 @@ This is a react application for a restaurant systes. The whole system consists o
 This is a beta version of the real project which ended up being completely different. Due to Non-disclosure agreement, I'm not allowed to post the real version. Regardless, I hope this is a good starting point for some people to create something amazing. Hope you can use this app as a benchmark. 
 
 If you have any question, please feel free to email me at delamazagj@gmail.com
-
-
-
-
 
 
 
